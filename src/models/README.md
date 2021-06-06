@@ -1,5 +1,5 @@
 ## Description of the model files
-Before running any of the models in R, please ensure that the working directory (getwd()) is set to /src/models such that the relative paths work correctly. This can be done by using setwd() to /src/models.
+Before running any of the models in R, please ensure that the working directory (getwd()) is set to /src/models such that the relative paths work correctly. This can be done by using setwd().
 
 ### File 1: lasso_increment_decrement.R:
 This scripts checks whether random, artificial data is more likely to be chosen to predict increasing / decreasing SMEB values in comparison to 'real' data (all other subdistricts). This should give us an idea on whether there is a trendsetting district or not. 
