@@ -1,6 +1,8 @@
 ## Description of the model files
 Before running any of the models in R, please ensure that the working directory (getwd()) is set to /src/models such that the relative paths work correctly. This can be done by using setwd().
 
+*To readers: Please note that this README-file is written for people who are not familiar with R code.*
+
 ### File 1: lasso_increment_decrement.R:
 This scripts checks whether random, artificial data is more likely to be chosen to predict increasing / decreasing SMEB values in comparison to 'real' data (all other subdistricts). This should give us an idea on whether there is a trendsetting district or not. 
 Run this script to generate the plot "Linear Model: Real vs Artifitial Data" of the report.
