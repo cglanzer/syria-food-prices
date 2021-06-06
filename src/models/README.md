@@ -24,7 +24,7 @@ To run this script, open a terminal and run
 
 > source("loess_arma_model.R")
 
-Now, you have access to the function forecast_arma_loess(), which can be used to make custom predictions using this model. Please open the file and read the comments on top on how to use this function (parameters etc.).
+Now, you have access to the function forecast_arma_loess(), which can be used to make custom predictions using this model. Please open the file and read the comments on top on how to use this function.
 If you forecast several time series, press ENTER to shift between the plots.
 
 
