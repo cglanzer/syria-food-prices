@@ -1,4 +1,4 @@
-## Forecasting the minimum cost of monthly survival during the Syrian civil war
+## Forecasting the minimum cost of monthly survival during the Syrian war
 
 It is becoming more popular for NGOs to provide cash-based assistance to people in war-torn countries such as Syria. Usually, it takes one month to deliver money to the local population. Unfortunately, the war leads to high fluctuations in the prices of everyday goods, which is why it is crucial to have reliable predictions for these prices in the upcoming months.
 
